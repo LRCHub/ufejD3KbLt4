@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "かなしい、かなしい、てのひら。",
+  "base_artist": "Kyiku",
+  "createdAt": "2026-03-23T03:24:31.690478Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "かなしい、かなしい、てのひら。",
+      "artist": "Kyiku",
+      "has_synced": false,
+      "path": "select/pl_01_かなしい、かなしい、てのひら。_Kyiku.txt"
+    }
+  ]
+}
